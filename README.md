@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tatieli Ramos
-- 💞️ I’m looking to collaborate on @OMIE
+- 💞️ I’m looking to collaborate on @omiexperience
 
 <!---
 tatielibento/tatielibento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
